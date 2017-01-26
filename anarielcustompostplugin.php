@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: Liber Custom Features Plugin
- * Description: Custom Features Plugin
+ * Plugin Name: Liber Custom Post Type Plugin
+ * Description: Custom Post Type Plugin
  * Version: 1.0
  * Author: Anariel Design
  * Author URI: http://www.anarieldesign.com
