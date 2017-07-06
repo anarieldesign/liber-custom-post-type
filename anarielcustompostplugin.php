@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Liber Custom Post Type Plugin
  * Description: Custom Post Type Plugin
- * Version: 1.0
+ * Version: 1.0.1
  * Author: Anariel Design
  * Author URI: http://www.anarieldesign.com
  */
