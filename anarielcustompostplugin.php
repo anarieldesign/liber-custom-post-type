@@ -215,3 +215,8 @@ function menu_save_meta_box_data( $post_id ){
 	}
 }
 add_action( 'save_post_menu', 'menu_save_meta_box_data' );
+
+add_action('plugins_loaded', 'liber_load_textdomain');
+function liber_load_textdomain() {
+	load_plugin_textdomain( 'liber-custom-post-type-master', false, dirname( plugin_basename(__FILE__) ) . '/lang/' );
+}
